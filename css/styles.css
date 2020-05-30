@@ -12,8 +12,9 @@ body {
 }
 
 .top-motto {
-	font-family: 'Montserrat', sans-serif;
-	font-size: 3rem;
+	font-family: 'Montserrat-Black', sans-serif;
+	font-size: 3.5rem;
+	font-weight: bold;
 	line-height: 1.5;
 }
 
@@ -48,4 +49,5 @@ body {
 
 .title-image {
 	width: 60%;
+	transform: rotate(24deg);
 }
