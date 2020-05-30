@@ -20,7 +20,7 @@ body {
 /* Navigation Bar */
 
 .navbar {
-	padding-bottom: 4.5rem;
+	padding: 0 0 4.5rem;
 }
 
 .navbar-brand {
@@ -31,4 +31,9 @@ body {
 
 .nav-item {
 	padding: 0 18px;
+}
+
+.nav-link {
+	font-size: 1.2rem;
+	font-family: 'Montserrat-Light', sans-serif;
 }
