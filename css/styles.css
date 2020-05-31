@@ -56,14 +56,24 @@ body {
 
 .blurb-row {
 	margin: 5% auto;	
-
 }
 
 .blurb-item {
 	margin: 5% auto;
 	text-align: center;
+	width: 20%;
 }
 
 .fa-check-circle {
 	color: #ef8172;
+}
+
+.blurb-text {
+	font-family: 'Montserrat-bold', sans-serif;
+	font-size: 1.5rem;
+	font-weight: bold;
+}
+
+.blurb-sentence {
+	color: #8f8f8f;
 }
