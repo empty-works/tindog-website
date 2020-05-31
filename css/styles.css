@@ -61,4 +61,9 @@ body {
 
 .blurb-item {
 	margin: 5% auto;
+	text-align: center;
+}
+
+.fa-check-circle {
+	color: #ef8172;
 }
