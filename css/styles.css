@@ -79,3 +79,19 @@ body {
 .blurb-sentence {
 	color: #8f8f8f;
 }
+
+/*Testimonials*/
+
+#testimonials {
+	padding: 7% 15%;
+	background-color: #ff4c68;
+	color: #fff;	
+	text-align: center;
+}
+
+#testimonial-text {
+	font-family: 'Montserrat-Bold', sans-serif;
+	font-size: 3.5rem;
+	font-weight: bold;
+	line-height: 1.5;
+}
