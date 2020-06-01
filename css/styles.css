@@ -66,6 +66,10 @@ body {
 	color: #ef8172;
 }
 
+.blurb-icon:hover {
+	color: #ff4c68;
+}
+
 .blurb-text {
 	font-family: 'Montserrat-bold', sans-serif;
 	font-size: 1.5rem;
