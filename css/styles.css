@@ -88,7 +88,7 @@ body {
 	text-align: center;
 }
 
-#testimonial-text {
+.testimonial-text {
 	font-family: 'Montserrat-Black', sans-serif;
 	font-size: 3.5rem;
 	font-weight: bold;
