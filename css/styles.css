@@ -52,6 +52,7 @@ section {
 /* Title Image */
 
 #title {
+	z-index: -1;
 }
 
 .title-image {
@@ -63,6 +64,7 @@ section {
 
 #blurbs {
 	background-color: white;
+	bottom: 400px;
 }
 
 .blurb-row {
