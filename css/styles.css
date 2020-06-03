@@ -51,13 +51,10 @@ section {
 
 /* Title Image */
 
-#title {
-	position: absolute;
-}
-
 .title-image {
 	width: 60%;
 	transform: rotate(24deg);
+	position: absolute;
 }
 
 /* Blurb Items */
