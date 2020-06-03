@@ -55,6 +55,7 @@ section {
 	width: 60%;
 	transform: rotate(24deg);
 	position: absolute;
+	right: 30%;
 }
 
 /* Blurb Items */
