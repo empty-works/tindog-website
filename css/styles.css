@@ -52,7 +52,7 @@ section {
 /* Title Image */
 
 #title {
-	z-index: -1;
+	position: absolute;
 }
 
 .title-image {
@@ -63,8 +63,9 @@ section {
 /* Blurb Items */
 
 #blurbs {
+	padding: 7% 15%;	
 	background-color: white;
-	bottom: 400px;
+	z-index: 1;
 }
 
 .blurb-row {
