@@ -152,6 +152,14 @@ section {
 	line-height: 1.5;
 }
 
+#footer {
+	text-align: center;
+}
+
+.footer-container {
+	padding: 6% 15%; 
+}
+
 @media (max-width: 1028px) {
 
 	#title {
