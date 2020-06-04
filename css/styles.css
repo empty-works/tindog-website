@@ -137,6 +137,15 @@ section {
 	padding: 3% 2%;
 }
 
+/*Call to Action*/
+
+.cta-sentence {
+	font-family: 'Montserrat-Black', sans-serif;
+	font-size: 3.5rem;
+	font-weight: bold;
+	line-height: 1.5;
+}
+
 @media (max-width: 1028px) {
 
 	#title {
