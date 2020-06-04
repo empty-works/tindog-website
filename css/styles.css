@@ -154,11 +154,16 @@ section {
 
 #footer {
 	text-align: center;
+	background-color: #fff;
 }
 
 .footer-container {
 	padding: 6% 15%; 
 }
+
+.social-icon {
+	padding: 1% 2%;
+}	
 
 @media (max-width: 1028px) {
 
