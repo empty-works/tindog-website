@@ -139,6 +139,11 @@ section {
 
 /*Call to Action*/
 
+#cta {
+	background-color: #ff4c68;
+	color: #fff;
+}
+
 .cta-sentence {
 	font-family: 'Montserrat-Black', sans-serif;
 	font-size: 3.5rem;
