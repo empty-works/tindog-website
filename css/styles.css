@@ -8,6 +8,17 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Montserrat-Bold', sans-serif;
+	font-weight: bold;
+}
+
+.section-heading {
+	font-size: 3rem;
+	line-height: 1.5;
+	text-align: center;
+}
+
+.section-subheading {
+	text-align:center;
 }
 
 #title {
@@ -132,6 +143,8 @@ section {
 	width: 15%;
 	margin: 20px;
 }
+
+/*Pricing*/
 
 #pricing {
 	padding: 100px;
