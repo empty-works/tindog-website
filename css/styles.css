@@ -1,5 +1,6 @@
 body {
 	font-family: 'Montserrat', sans-serif;
+	text-align:center;	
 }
 
 .container-fluid {
@@ -14,11 +15,6 @@ h1, h2, h3, h4, h5, h6 {
 .section-heading {
 	font-size: 3rem;
 	line-height: 1.5;
-	text-align: center;
-}
-
-.section-subheading {
-	text-align:center;
 }
 
 #title {
@@ -85,7 +81,7 @@ section {
 }
 
 .blurb-item {
-	text-align: center;
+	
 }
 
 .blurb-icon {
@@ -109,7 +105,7 @@ section {
 #testimonials {
 	background-color: #ff4c68;
 	color: #fff;	
-	text-align: center;
+	
 }
 
 .testimonial-text {
@@ -133,7 +129,6 @@ section {
 
 #press {
 	background-color: #ff4c68;
-	text-align: center;
 	padding-bottom: 3%;
 }
 
@@ -162,7 +157,7 @@ section {
 #cta {
 	background-color: #ff4c68;
 	color: #fff;
-	text-align: center;
+	
 }
 
 .cta-sentence {
@@ -173,7 +168,7 @@ section {
 }
 
 #footer {
-	text-align: center;
+	
 	background-color: #fff;
 }
 
@@ -188,7 +183,7 @@ section {
 @media (max-width: 1028px) {
 
 	#title {
-		text-align: center;
+		
 	}
 	.title-image {
 		position: static;
