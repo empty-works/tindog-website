@@ -9,7 +9,7 @@ body {
 
 /*Sections*/
 
-.colored-section {
+.pink-section {
 	background-color: #ff4c68;
 	color: #fff;
 }
@@ -28,8 +28,9 @@ h1, h2, h3, h4, h5, h6 {
 	line-height: 1.5;
 }
 
-#title {
+#title .container-fluid {
 	text-align: left;
+	padding: 3% 15%;
 }
 
 .top-motto {
@@ -109,8 +110,6 @@ section {
 
 #testimonials {
 	background-color: #ff4c68;
-	color: #fff;	
-	
 }
 
 .testimonial-text {
@@ -157,12 +156,6 @@ section {
 }
 
 /*Call to Action*/
-
-#cta {
-	background-color: #ff4c68;
-	color: #fff;
-	
-}
 
 .cta-sentence {
 	font-family: 'Montserrat-Black', sans-serif;
